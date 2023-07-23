@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Programko3
+namespace Carpark
 {
     class Program
     {
